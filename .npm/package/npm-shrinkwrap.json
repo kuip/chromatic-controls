@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dat-gui": {
+      "version": "0.5.0",
+      "resolved": "https://registry.npmjs.org/dat-gui/-/dat-gui-0.5.0.tgz",
+      "from": "dat-gui@0.5.0"
+    }
+  }
+}

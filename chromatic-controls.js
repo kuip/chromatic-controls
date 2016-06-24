@@ -5,12 +5,10 @@ import dat from 'dat-gui';
 export const ChromaticControls = {
   gui: null,
   remove: function() {
-    console.log('remove ChromaticControls')
     this.gui.domElement.parentElement.removeChild(this.gui.domElement)
     this.gui = null
   },
   show: function(obj, callback) {
-    console.log('ChromaticControlsShow')
     return ChromaticControlsShow(this, obj, callback)
   }
 }

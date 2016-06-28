@@ -1,6 +1,6 @@
 Package.describe({
   name: 'kuip:chromatic-controls',
-  version: '0.0.2',
+  version: '0.0.3',
   // Brief, one-line summary of the package.
   summary: 'Dynamic exploration and testing of React components for Chromatic',
   // URL to the Git repository containing the source code for this package.
